@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonnah Kurian
 - 👀 I’m interested in Solution Architect
-- 🌱 I’m currently learning Azure and Devpos as Cloud Technology in.
+- 🌱 I’m currently learning Azure and Devpos as Cloud Technology.
 - 💞️ I’m looking to collaborate on Solutioning and Implementation.
 - 📫 How to reach me jonnahkurian@yahoo.com
 
